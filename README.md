@@ -6,7 +6,8 @@ The dataset contained:
 •	Logical inconsistencies (negative prices, invalid totals)
 Instead of discarding corrupted rows, this project emphasizes data recovery, statistical imputation, and logical inference to preserve business value.
 
-**Project Objectives**
+🔍**Project Objectives**
+
 •	Clean and standardize inconsistent transactional data
 •	Apply statistically sound imputation techniques (Mode imputation)
 •	Implement logical inference to reconstruct missing financial values
