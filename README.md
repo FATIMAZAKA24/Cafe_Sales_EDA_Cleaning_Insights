@@ -1,4 +1,4 @@
-<img width="817" height="1" alt="image" src="https://github.com/user-attachments/assets/fe75eb58-e34a-4fa2-97d1-2469dfe1ec1f" />**📊 Dirty Cafe Sales Analysis — From Messy Data to Business Insights**
+#📊 Dirty Cafe Sales Analysis — From Messy Data to Business Insights**
 
 This project presents an end-to-end data analysis case study on a synthetic 10,000-row “Dirty Cafe Sales” dataset, focusing on transforming corrupted transactional data into actionable business intelligence.
 
