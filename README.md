@@ -9,14 +9,14 @@ The dataset contained:
 
 Instead of discarding corrupted rows, this project emphasizes data recovery, statistical imputation, and logical inference to preserve business value.
 
-##🔍 Project Objectives
+**🔍 Project Objectives**
 - Clean and standardize inconsistent transactional data
 - Apply statistically sound imputation techniques (Mode imputation)
 - Implement logical inference to reconstruct missing financial values
 - Perform Exploratory Data Analysis (EDA)
 - Extract business-level insights for operational and revenue optimization
 
-##🛠 Technical Approach
+**🛠 Technical Approach**
 
 1️⃣ **Data Cleaning & Type Enforcement**
 - Converted corrupted numeric columns using pd.to_numeric(errors="coerce")
@@ -39,12 +39,12 @@ Generated business-focused visualizations:
 - Revenue by service type (Takeaway vs In-store)
 - Monthly revenue trend analysis
 
-##📈 Key Business Insights
+**📈 Key Business Insights**
 - Juice significantly outperforms other products in volume → inventory & product expansion opportunity
 - Takeaway drives nearly 2× revenue vs in-store → operational optimization priority
 - Seasonal peaks in June & October; dip in February → predictive staffing & promotional strategy opportunity
 
-##🎯 Business Impact
+**🎯 Business Impact**
 
 This project demonstrates how disciplined data preprocessing directly influences strategic decisions:
 - Inventory optimization
@@ -52,14 +52,14 @@ This project demonstrates how disciplined data preprocessing directly influences
 - Operational planning
 - Seasonal forecasting
 
-##🧰 Tech Stack
+**🧰 Tech Stack**
 - Python
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-##👩‍💻 About
+**👩‍💻 About**
 I’m a Software Engineering graduate specializing in Artificial Intelligence and Machine Learning, focused on building interpretable, data-driven systems that connect analytics with real-world decision-making.
 
 If you're hiring for AI/ML or Data roles, I’d be glad to connect.
