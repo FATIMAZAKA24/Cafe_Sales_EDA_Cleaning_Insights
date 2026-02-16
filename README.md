@@ -28,6 +28,7 @@ Instead of discarding corrupted rows, this project emphasizes data recovery, sta
 - Preserved statistical distribution of high-frequency retail transactions
 
 **3️⃣ Logical Revenue Reconstruction**
+
 Implemented rule-based inference:
 _Total Spent = Quantity × Price_
 Recovered hundreds of incomplete transactions without data leakage.
@@ -60,6 +61,7 @@ This project demonstrates how disciplined data preprocessing directly influences
 - Jupyter Notebook
 
 **👩‍💻 About**
+
 I’m a Software Engineering graduate specializing in Artificial Intelligence and Machine Learning, focused on building interpretable, data-driven systems that connect analytics with real-world decision-making.
 
 If you're hiring for AI/ML or Data roles, I’d be glad to connect.
